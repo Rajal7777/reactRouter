@@ -1,0 +1,9 @@
+/
+└── RootLayout
+    ├── HomePage                (index)
+    └── events
+        └── EventsRootLayout
+            ├── EventsPage      (index)
+            ├── EventDetailPage (:eventId)
+            ├── NewEventPage    (new)
+            └── EditEventPage   (:eventId/edit)
