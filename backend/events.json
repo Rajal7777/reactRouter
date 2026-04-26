@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"new event","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7rF-PKGZwG4Vu4ggEzML4YpblZV9oOvX-9kHbbF9dQ&s&ec=121643139","date":"2026-04-26","description":"Nice weather makes a day great..","id":"4ab53cd2-e837-41dc-bec1-0f66fb5b62dc"},{"title":"Coconot","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TEa7i6GXpiaRMwbIfBeewGP-XNRc1i4MIA&s","date":"2026-04-11","description":"Its good for hot weather...","id":"4ef44f61-39ea-45b4-8b23-52062f3e6bc9"},{"title":"Gru and Banana","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKIj_7elYyo7_pqHmOU2YGr3x1dI7ULO7BjA&s","date":"2026-04-16","description":"Bananna","id":"bb0a7a32-1060-4095-aa48-6d896d86b7cd"},{"title":"new","image":"https://cdn.pixabay.com/photo/2015/04/19/08/32/flower-729510_1280.jpg","date":"2026-04-08","description":"new event","id":"8fc822bb-1250-4351-91a5-b956f9f92253"},{"title":"asd","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TEa7i6GXpiaRMwbIfBeewGP-XNRc1i4MIA&s","date":"2026-04-11","description":"sf","id":"5bf544ec-4d43-4999-9086-806877514305"},{"title":"banana ","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKIj_7elYyo7_pqHmOU2YGr3x1dI7ULO7BjA&s","date":"2026-04-16","description":"Bananna","id":"df5085d3-6ef2-4358-b8f6-01feb63f8d19"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
